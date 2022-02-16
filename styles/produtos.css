@@ -6,7 +6,9 @@
     font: inherit;
     vertical-align: baseline;
 }
-
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 .produtos {
     width: 940px;
     margin: 0 auto 0 auto;

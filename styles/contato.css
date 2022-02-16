@@ -5,6 +5,9 @@
     font: inherit;
     vertical-align: baseline;
 }
+body {
+    font-family: 'Montserrat', sans-serif;
+}
 
 main {
     width: 940px;
