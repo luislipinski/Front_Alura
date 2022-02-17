@@ -50,3 +50,29 @@ footer {
     font-size: 13px;
     margin-top: 20px;
 }
+
+@media screen and (max-width:900px) {
+    .caixa {
+        width: auto;
+        padding: 10px;
+    }
+
+    h1 {
+        text-align: center;
+    }
+    nav {
+        position: static;
+        
+    }
+    
+
+    nav .menu {
+        margin: 5px;
+    }
+    
+    nav a {
+        font-size: 20px;
+    }
+
+    
+}
